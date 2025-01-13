@@ -3,7 +3,7 @@
 [![ROS2 Version](https://img.shields.io/badge/ROS2-Humble-blue)](https://docs.ros.org/en/humble/)
 [![Developer](https://img.shields.io/badge/Developer-shashank3199-green)](https://github.com/shashank3199)
 
-This repository demonstrates a modular robot arms control system built with ROS2, showcasing mixed language implementation (C++ and Python) and advanced launch file configuration. The system enables independent control of two robotic arms (left and right), with each arm composed of three main components: hand, elbow, and shoulder.
+This repository demonstrates a modular robot arms control system built with ROS2, showcasing mixed language implementation (C++ and Python) and advanced launch file configuration. The system enables independent control of two robotic arms (left and right), with each arm composed of three main components: hand, elbow, and shoulder. Read the Tutorial [Mastering ROS2: Orchestrating Your Robot's Architecture with Nodes and Launch Files](https://medium.com/@shashank-goyal-blogs/mastering-ros2-orchestrating-your-robots-architecture-with-nodes-and-launch-files-2e8aae3fc917).
 
 ## Table of Contents
 
